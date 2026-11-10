@@ -128,8 +128,8 @@ APA 7:
 
 ## License
 
-VPD Explorer uses the European Union Public Licence v1.2, following [NTNU’s open-source guidelines](https://i.ntnu.no/wiki/-/wiki/English/Open+source). NTNU recommends this licence for university-developed software when no other licensing obligations take precedence. It allows others to use and adapt the calculator and requires them to make the covered source code available when they distribute a modified version or offer its core functionality online.
+VPD Explorer uses the European Union Public Licence v1.2, following [NTNU’s open-source guidelines](https://i.ntnu.edu/wiki/-/wiki/English/Open+source). NTNU recommends this licence for university-developed software when no other licensing obligations take precedence. It allows others to use and adapt the calculator and requires them to make the covered source code available when they distribute a modified version or offer its core functionality online.
 
-EUPL-1.2 takes effect for version 1.0.0 in this internal, not-yet-officially-released repository state. See [LICENSE](LICENSE). The ColorBrewer palette credits and Apache-2.0 terms remain in [colorbrewer_NOTICE.txt](vpd_calculator/assets/colorbrewer_NOTICE.txt); the Nelson & Bugbee figure remains credited under its separate CC BY 4.0 terms in the app.
+VPD Explorer adopted EUPL-1.2 for its first tagged release, v1.0.0. Earlier public development snapshots were distributed under MIT. See [LICENSE](LICENSE). The ColorBrewer palette credits and Apache-2.0 terms remain in [colorbrewer_NOTICE.txt](vpd_calculator/assets/colorbrewer_NOTICE.txt); the Nelson & Bugbee figure remains credited under its separate CC BY 4.0 terms in the app.
 
 [European Union Public Licence v1.2 (EUPL-1.2)](LICENSE)
