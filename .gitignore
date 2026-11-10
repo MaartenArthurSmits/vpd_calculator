@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.Rhistory
+.RData
+.vscode/
+.posit/
+vpd_calculator/tests/artifacts/
+
+# Local agent instructions (personal, not published)
+AGENTS.md

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "VPD Explorer: A vapour pressure deficit calculator for controlled-environment plant research"
+type: software
+authors:
+  - given-names: "Maarten Arthur"
+    family-names: "Smits"
+    orcid: "https://orcid.org/0009-0004-1315-0822"
+    affiliation: "Department of Biology, Faculty of Natural Sciences, NTNU – Norwegian University of Science and Technology, Trondheim, Norway"
+repository-code: "https://github.com/MaartenArthurSmits/vpd_calculator"
+url: "https://vpd-calculator.streamlit.app/"
+license: EUPL-1.2
+version: "1.0.0"
+date-released: "2026-10-29"
+keywords:
+  - vapour pressure deficit
+  - VPD
+  - plant physiology
+  - controlled environment
+  - Streamlit
+references:
+  - type: report
+    authors:
+      - family-names: "Allen"
+        given-names: "Richard G."
+      - family-names: "Pereira"
+        given-names: "Luis S."
+      - family-names: "Raes"
+        given-names: "Dirk"
+      - family-names: "Smith"
+        given-names: "Martin"
+    title: "Crop evapotranspiration: guidelines for computing crop water requirements"
+    year: 1998
+    series: "FAO Irrigation and Drainage Paper"
+    number: "56"
+    publisher:
+      name: "Food and Agriculture Organization of the United Nations"
+      city: "Rome"
+    url: "https://www.fao.org/4/x0490e/x0490e00.htm"
